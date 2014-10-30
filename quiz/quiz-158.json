@@ -1,0 +1,16 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "２．（B层次）如图所示，有两个彼此靠近的悬挂着的大球，它们的中心相距4.0m．已知一个球重980N，另一个球重196N，<i>g</i>＝9.8m/s<sup>2</sup>，<i>G</i><i>=</i>6.67×10<sup>-</sup><sup>1</sup><sup>1</sup>N·m<sup>2</sup>/kg<sup>2</sup>．它们间的万有引力约为（　　）",
+      "answers": ["A．8.34×10<sup>-</sup><sup>9</sup>N　", 
+                  "B．16.68×10<sup>-</sup><sup>9</sup>N", 
+                  "C．8.34×10-7N ",
+                  "D．8.34×10<sup>-</sup><sup>1</sup><sup>1</sup>N"
+                  ],
+      "correctAnswer": "【答案】A",
+      "details": "经换算这两个球的质量分别为100kg和20kg．根据万有引力定律${F = G\\dfrac{{{m_1}{m_2}}}{{{r^2}}}}$，代入已知数据计算得到<i>F</i>≈8.34×10<sup>-</sup><sup>42</sup>N．",
+      "summary": ""
+    }
+  ]
+}

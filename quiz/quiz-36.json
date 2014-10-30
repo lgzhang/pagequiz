@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例2：（B层次）将一石块在地面上以20m/s的速度竖直向上抛出，求抛出后1s和3s时石块的高度.（不计空气阻力，<i>g</i>=10m/s<sup>2</sup>）</p><p >思路剖析：</p><div class='imgback baguetteBoxOne center-pic' style='width:500px'><img src='books/physics/images/pages/10-2.jpg' style='width: 480px'></div>",
+      "answers":[],
+      "correctAnswer": "",
+      "details": "答案：15m． <br/><h5>解析：</h5><p >方法一、分段处理法</p><p >首先要判断石块上升和下降的时间．取初速度的方向为正方向．</p><p >在上升过程中，已知<i>υ</i><sub>0</sub>=20m/s，<i>υ</i><sub><i>t</i></sub>=0，<i>a</i>=－<i>g</i>．</p><p >根据<i>υ</i><sub><i>t</i></sub>=<i>υ</i><sub>0</sub>+<i>a</i><i>t</i>可得上升到最高点的时间为：${t = \\dfrac{{ - {\\upsilon _0}}}{a} = \\dfrac{{ - {\\upsilon _0}}}{{ - g}} = 2(s)}$</p><p >最大高度为：${h = {\\upsilon _0}t - \\dfrac{1}{2}g{t^2} = 20(m)}$</p><p >所以在1s末和3s末石块分别处于上升和下降阶段.故有：</p><p >若取初速度的方向为正方向，石块经过1s时的高度为：${{h_1} = {\\upsilon _0}{t_1} - \\dfrac{1}{2}gt_1^2 = 15(m)}$</p>",
+      "summary": "小结：两种方法相比，得到的结果完全相同，方法二显得简洁，但是方法一过程很清晰．两种方法都要首先确定正方向，以确定加速度的方向，这点要特别重视．<div class='flash center-pic'><flash src='books/physics/flash/连续朝天开枪.swf' width='600px' height='400px'></flash><span>连续朝天开枪</span></div>"
+    }
+  ]
+}

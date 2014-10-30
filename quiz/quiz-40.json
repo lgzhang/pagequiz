@@ -1,0 +1,11 @@
+﻿{
+  "title": "随堂训练",
+  "example": [
+  {
+    "question": " 2．（B层次）气球以10m/s的速度匀速竖直上升，从气球上掉下一个物体，经17s到达地面．求物体刚脱离气球时气球的高度．",
+    "answers": [],
+    "correctAnswer": "",
+    "details": "<p >解析：</p><p >物体随气球匀速上升时，物体具有向上10m/s的速度．当物体离开气球时，由于惯性物体继续向上运动一段距离，在重力作用下做匀变速直线运动．本题既可以用整体处理的方法也可以分段处理．</p><p >方法一：可将物体的运动过程视为匀减速直线运动．根据题意画出运动草图如图所示．</p><div class='imgback baguetteBoxOne center-pic' style='width:160px'><img src='books/physics/images/pages/11-2.jpg' style='width: 140px'></div><p >方法二：如图所示可将物体的运动过程分为<i>A</i>→<i>B</i>→<i>C</i>和<i>C</i>→<i>D</i>两段来处理．<i>A</i>→<i>B</i>→<i>C</i>为竖直上抛运动，<i>C</i>→<i>D</i>为竖直下抛运动．</p><p >由题意知<i>t</i><sub><i>C</i></sub><sub><i>D</i></sub>=17－2=15s</p><p >${{h_{CD}} = {\\upsilon _0}t + \\dfrac{1}{2}g{t^2} = 1275{\\rm{m}}}$</p><p >方法三：根据题意作出物体脱离气球到落地这段时间的<i>υ</i>-<i>t</i>图（如图所示）</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/3-2.jpg' style='width: 240px'></div><p >其中△<i>υ</i><sub>0</sub><i>O</i><i>t</i><sub><i>B</i></sub>的面积为<i>A</i>→<i>B</i>的位移</p><p >△<i>t</i><sub><i>B</i></sub><i>t</i><sub><i>C</i></sub><i>υ</i><sub><i>C</i></sub>的面积大小为<i>B</i>→<i>C</i>的位移</p><p >梯形<i>t</i><sub><i>C</i></sub><i>t</i><sub><i>D</i></sub><i>υ</i><sub><i>D</i></sub><i>υ</i><sub><i>C</i></sub>的面积大小为<i>C</i>→<i>D</i>的位移即物体离开气球时距地的高度</p><p >${\\tan \\alpha  = g = \\dfrac{{{\\upsilon _0}}}{{{t_B}}}}$</p><p >则<i>t</i><sub><i>B</i></sub>=1s根据竖直上抛的规律<i>t</i><sub><i>C</i></sub>=2s <i>t</i><sub><i>B</i></sub><i>t</i><sub><i>D</i></sub>=17-1=16s</p>",
+    "summary": ""
+  }]
+}
